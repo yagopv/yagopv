@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yago P&#233;rez V&#225;zquez's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 269, Total Commits  (last year) : 190, Total PRs: 389, Total PRs Merged: 362, Merged PRs Percentage: 93.06, Total PRs Reviewed: 198, Total Issues: 90, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 269, Total Commits  (last year) : 190, Total PRs: 390, Total PRs Merged: 362, Merged PRs Percentage: 92.82, Total PRs Reviewed: 198, Total Issues: 90, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 41.952415201909986;
+        stroke-dashoffset: 41.94847956398901;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >389</text>
+      >390</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >93.06 %</text>
+      >92.82 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
